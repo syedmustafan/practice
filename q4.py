@@ -1,4 +1,4 @@
-lst = [3,2,1,4]
+lst = [3,2,1,4,10,15,11,12,14,5]
 
 def candyStore(lst, N, K):
     diff = N - K
@@ -19,4 +19,4 @@ def candyStore(lst, N, K):
             
             
     print(minimum, maximum)
-candyStore(lst, 4, 2)
+candyStore(lst, 10, 3)
