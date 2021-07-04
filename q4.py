@@ -1,3 +1,4 @@
+
 lst = [3,2,1,4,10,15,11,12,14,5]
 
 def candyStore(lst, N, K):
